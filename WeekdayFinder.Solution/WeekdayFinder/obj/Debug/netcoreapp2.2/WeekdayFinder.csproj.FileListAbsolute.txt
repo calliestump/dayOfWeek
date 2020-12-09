@@ -1,0 +1,11 @@
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/bin/Debug/netcoreapp2.2/WeekdayFinder.deps.json
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/bin/Debug/netcoreapp2.2/WeekdayFinder.runtimeconfig.json
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/bin/Debug/netcoreapp2.2/WeekdayFinder.runtimeconfig.dev.json
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/bin/Debug/netcoreapp2.2/WeekdayFinder.dll
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/bin/Debug/netcoreapp2.2/WeekdayFinder.pdb
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/obj/Debug/netcoreapp2.2/WeekdayFinder.csprojAssemblyReference.cache
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/obj/Debug/netcoreapp2.2/WeekdayFinder.csproj.CoreCompileInputs.cache
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/obj/Debug/netcoreapp2.2/WeekdayFinder.AssemblyInfoInputs.cache
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/obj/Debug/netcoreapp2.2/WeekdayFinder.AssemblyInfo.cs
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/obj/Debug/netcoreapp2.2/WeekdayFinder.dll
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder/obj/Debug/netcoreapp2.2/WeekdayFinder.pdb

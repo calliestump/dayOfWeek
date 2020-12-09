@@ -1,0 +1,17 @@
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/WeekdayFinder.Tests.deps.json
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/WeekdayFinder.Tests.runtimeconfig.json
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/WeekdayFinder.Tests.runtimeconfig.dev.json
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/WeekdayFinder.Tests.dll
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/WeekdayFinder.Tests.pdb
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/WeekdayFinder.dll
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/bin/Debug/netcoreapp2.2/WeekdayFinder.pdb
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/obj/Debug/netcoreapp2.2/WeekdayFinder.Tests.csprojAssemblyReference.cache
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/obj/Debug/netcoreapp2.2/WeekdayFinder.Tests.csproj.CoreCompileInputs.cache
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/obj/Debug/netcoreapp2.2/WeekdayFinder.Tests.AssemblyInfoInputs.cache
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/obj/Debug/netcoreapp2.2/WeekdayFinder.Tests.AssemblyInfo.cs
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/obj/Debug/netcoreapp2.2/WeekdayFinder.Tests.csproj.CopyComplete
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/obj/Debug/netcoreapp2.2/WeekdayFinder.Tests.dll
+/Users/callie/Desktop/Week8/WeekdayFinder/WeekdayFinder.Solution/WeekdayFinder.Tests/obj/Debug/netcoreapp2.2/WeekdayFinder.Tests.pdb
