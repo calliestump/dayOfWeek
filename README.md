@@ -1,19 +1,19 @@
-# Title
+# Weekday Finder
 
-#### **Date**
+#### **12/9/20**
 
-## By _Callie Stump_
+## By _Joe Nero, Callie Stump_
 ---
 ## 🚩 **Description**
-
+This is a console application that allows the user to enter a date, then returns a the designated weekday to the console.
 
 ## 🔧 Setup/Installation Requirements
 
-1. Copy this download link: https://github.com/calliestump/Friday6.git
+1. Copy this download link: https://github.com/calliestump/dayOfWeek.git
 2. Open bash and go to the directory where you would like to store your cloned project.
 3. Clone the repo.
 ```
-git clone "https://github.com/calliestump/Friday6.git"
+git clone "https://github.com/calliestump/dayOfWeek.git"
 ```
 4. Navigate to the cloned project folder and open VS code.
 ```
@@ -41,16 +41,12 @@ npm run test
 ```
 #### Dont forget that in order to push any changes you need to add your own GitHub repo. to your project.
 ```
-git remote add origin https://github.com/calliestump/Friday6
+git remote add origin https://github.com/calliestump/dayOfWeek
 ```
 ## **Technologies Used**
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* C#
+* .NET
+* Git
 
 ## 🐛 Known Bugs
 
