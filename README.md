@@ -7,6 +7,8 @@
 ## 🚩 **Description**
 
 
+## 🔧 Setup/Installation Requirements
+
 1. Copy this download link: https://github.com/calliestump/Friday6.git
 2. Open bash and go to the directory where you would like to store your cloned project.
 3. Clone the repo.
